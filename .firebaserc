@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "rr-profile": "rr-profile",
+    "default": "rr-profile"
+  }
+}
